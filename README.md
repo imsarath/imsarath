@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As a bioinformatics programmer, I am passionate about using software development to solve complex biological problems. Here, you will find a collection of my projects and contributions to various open-source repositories. I am always seeking to learn and improve, and I welcome any feedback or collaboration opportunities. 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsarath&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
