@@ -19,4 +19,4 @@ As a bioinformatics programmer, I am passionate about using software development
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsarath&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=imsarath&hide_border=true&hide=html,php&layout=compact)]
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=imsarath&hide_border=true&hide=html,php&layout=compact)
