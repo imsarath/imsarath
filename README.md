@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **imsarath/imsarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As a bioinformatics programmer, I am passionate about using software development to solve complex biological problems. Here, you will find a collection of my projects and contributions to various open-source repositories. I am always seeking to learn and improve, and I welcome any feedback or collaboration opportunities. 
+## 👋 Hi there, welcome to my GitHub!
+I’m Sarath Murugan, a bioinformatics programmer passionate about leveraging software engineering, data science, and cloud technologies to solve complex biological and biomedical challenges. My work focuses on building scalable, efficient, and reproducible pipelines for analyzing large-scale genomic and multi-omics datasets.
+Here, you’ll find:
+
+Open-source projects related to bioinformatics, data analysis, and workflow automation.
+Contributions to collaborative repositories aimed at advancing computational biology.
+Tools and scripts designed to make biological data processing faster and more accessible.
+
+## 🔍 What drives me
+I believe in the power of computational solutions to accelerate discoveries in life sciences. From genomic data processing to cloud-based pipeline deployment, I enjoy tackling problems that sit at the intersection of biology, programming, and high-performance computing.
+🛠️ Tech Stack & Interests
+
+Languages: Python, R, Bash, Nextflow
+Cloud & DevOps: Microsoft Azure, Docker, Kubernetes
+Bioinformatics Tools: GATK, SAMtools, BCFtools, Snakemake
+Areas of Interest: Genomics, Cancer Research, Data Pipelines, Cloud-native Bioinformatics
+
+## 🤝 Let’s Collaborate!
+I’m always open to collaboration, knowledge sharing, and feedback. If you’re working on something exciting in bioinformatics or cloud-based data analysis, feel free to reach out!
+
 
