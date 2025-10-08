@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I’m Sarath Murugan, a bioinformatics programmer passionate about leveraging software engineering, data science, and cloud technologies to solve complex biological and biomedical challenges. My work focuses on building scalable, efficient, and reproducible pipelines for analyzing large-scale genomic and multi-omics datasets.
 Here, you’ll find:
 
-Open-source projects related to bioinformatics, data analysis, and workflow automation.
-Contributions to collaborative repositories aimed at advancing computational biology.
-Tools and scripts designed to make biological data processing faster and more accessible.
+- Open-source projects related to bioinformatics, data analysis, and workflow automation.
+- Contributions to collaborative repositories aimed at advancing computational biology.
+- Tools and scripts designed to make biological data processing faster and more accessible.
 
 ## 🔍 What drives me
 I believe in the power of computational solutions to accelerate discoveries in life sciences. From genomic data processing to cloud-based pipeline deployment, I enjoy tackling problems that sit at the intersection of biology, programming, and high-performance computing.
