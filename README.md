@@ -23,12 +23,6 @@ Tools and scripts designed to make biological data processing faster and more ac
 
 ## 🔍 What drives me
 I believe in the power of computational solutions to accelerate discoveries in life sciences. From genomic data processing to cloud-based pipeline deployment, I enjoy tackling problems that sit at the intersection of biology, programming, and high-performance computing.
-🛠️ Tech Stack & Interests
-
-Languages: Python, R, Bash, Nextflow
-Cloud & DevOps: Microsoft Azure, Docker, Kubernetes
-Bioinformatics Tools: GATK, SAMtools, BCFtools, Snakemake
-Areas of Interest: Genomics, Cancer Research, Data Pipelines, Cloud-native Bioinformatics
 
 ## 🤝 Let’s Collaborate!
 I’m always open to collaboration, knowledge sharing, and feedback. If you’re working on something exciting in bioinformatics or cloud-based data analysis, feel free to reach out!
